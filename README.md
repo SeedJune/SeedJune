@@ -68,9 +68,10 @@
 <!-- 统一卡片大小并调整比例 - 修复高度不一致问题 -->
 <div align="center">
 <!-- 添加动态数据卡片 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SeedJune&theme=radical" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SeedJune&theme=radical" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SeedJune&theme=radical" width="33%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SeedJune&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SeedJune&layout=compact&theme=radical&hide_border=true&langs_count=8" width="49%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SeedJune&theme=radical&hide_border=true" width="60%" />
 
 </div>
 
@@ -82,10 +83,10 @@
 
 <!-- <div align="center">
   <a href="https://github.com/SeedJune/dream-maze">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeedJune&repo=dream-maze&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SeedJune&repo=dream-maze&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
   <a href="https://github.com/SeedJune/doctopus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeedJune&repo=doctopus&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SeedJune&repo=doctopus&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
 </div> -->
 
@@ -112,7 +113,7 @@
 </picture>
 
 <!-- 实时贡献日历热图 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeedJune&theme=radical" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SeedJune&theme=radical&hide_border=true&area=true" width="100%" />
 </div>
 
 <!-- 使用SVG制作的动态语录
