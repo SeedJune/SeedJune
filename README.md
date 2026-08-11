@@ -13,7 +13,7 @@
     <a href="https://github.com/SeedJune"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
     <a href="mailto:yuchaojin99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://www.xiaohongshu.com/user/profile/6617f7ab00000000070064ca"><img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="小红书"/></a>
-    <a href="https://blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-FF4D4D?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN"/></a>
+    <a href="https://blog.csdn.net/jycjn?type=blog"><img src="https://img.shields.io/badge/CSDN-FF4D4D?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN"/></a>
 </p>
 
 <!-- 动态访问计数器 - 增强效果 -->
