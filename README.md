@@ -13,7 +13,6 @@
     <a href="https://github.com/SeedJune"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
     <a href="mailto:yuchaojin99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://www.xiaohongshu.com/user/profile/6617f7ab00000000070064ca"><img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="小红书"/></a>
-    <a href="https://www.zhihu.com"><img src="https://img.shields.io/badge/知乎-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="知乎"/></a>
     <a href="https://blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-FF4D4D?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN"/></a>
 </p>
 
@@ -56,24 +55,24 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
 </div>
 
-<h2 align="center">
+<!-- <h2 align="center">
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
   社区贡献
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
-</h2>
+</h2> -->
   
   
   
   <!-- 统一卡片大小并调整比例 - 优化显示效果 -->
 <!-- 统一卡片大小并调整比例 - 修复高度不一致问题 -->
-<div align="center">
+<!-- <div align="center">
 <!-- 添加动态数据卡片 -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SeedJune&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
+<!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SeedJune&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SeedJune&layout=compact&theme=radical&hide_border=true&langs_count=8" width="49%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeedJune&theme=radical&hide_border=true" width="60%" />
 
-</div>
+<!-- </div>  -->
 
 <!-- 项目展示部分 - 统一标题样式并对齐图标
 <h2 align="center">
